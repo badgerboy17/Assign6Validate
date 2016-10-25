@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\ This\ is\ the\ main\ method,\ num\ variable\ is\ the\ credit\ card\ number,\ and\ the\ total\ variable\ checks\ that\n\ \ the\ sum\ of\ the\ evens\ and\ odds\ digit\ numbers\ is\ equally\ divisible\ by\ 10.\n\ \ A\ for\ loop,\ and\ if\ statement,\ assist\ in\ checking\ that\ the\ total\ variable\ is\ equally\ divisible.\n\ \ The\ main\ method\ does\ not\ return\ anything,\ thus\ it\ is\ void.\n
+comment1.params=num
+comment1.target=int\ sumOfEvensDoubled(long)
+comment1.text=\n\ This\ sumofEvensDoubled\ method\ helps\ calculate\ the\ total\ sum\ variable\ of\n\ all\ the\ credit\ card's\ evens\ digits,\ while\ doubling\ each\ evens\ digit.\ \n\ A\ while\ loop\ assists\ in\ this\ method\ and\ the\ remainder\ variable\n\ helps\ shrink\ the\ credit\ card\ number\ to\ capture\ all\ the\ individual\ digits.\n\ This\ method\ returns\ an\ integer\ variable,\ and\ has\ long\ num\ as\ its\ parameter.\n
+comment2.params=num
+comment2.target=int\ shrinkToOneDigit(int)
+comment2.text=\n\ This\ shrinkTooOneDigit\ method\ takes\ the\ evens'\ digits\ sum\ number\ calculated\ in\ the\ first\ step\n\ and\ returns\ an\ integer.\ Its\ purpose\ is\ to\ return\ the\ original\ value\ of\ the\ parameter\n\ if\ it\ is\ a\ single\ digit,\ otherwise\ it\ breaks\ the\ two\ digits\ apart,\ adds\ them\ together,\n\ and\ returns\ that\ number.\ This\ method\ returns\ an\ integer\ variable,\n\ and\ has\ integer\ num\ as\ it's\ parameter.\n
+comment3.params=num
+comment3.target=int\ sumOfOddPlaces(long)
+comment3.text=\n\ This\ sumOfOddPlaces\ method\ helps\ calculate\ the\ total\ sum\ of\ all\ the\ credit\ card's\ odds\ digits.\ \n\ A\ while\ loop\ assists\ in\ this\ method,\ and\ an\ integer\ variable\ is\ returned.\ Long\ num\ is\ the\ parameter.\n
+numComments=4
